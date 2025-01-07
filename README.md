@@ -7,13 +7,13 @@
 **Code to be open sourced!!!**
 
 ## Citation
-
-> @inproceedings{ wang2024image,
-> title={Image Gradient-Aided Photometric Stereo Network},
+```
+@inproceedings{ wang2024image,
+  title={Image Gradient-Aided Photometric Stereo Network},
   author={Wang, Kaixuan and Qi, Lin and Qin, Shiyu and Luo, Kai and Ju, Yakun and Li, Xia and Dong, Junyu},
   booktitle={Pacific Rim International Conference on Artificial Intelligence},
   pages={284--296},
   year={2024},
   organization={Springer}
 }
-
+```
