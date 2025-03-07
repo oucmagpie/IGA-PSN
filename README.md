@@ -4,7 +4,9 @@
 
 **Author**: Kaixuan Wang, Lin Qi*, Shiyu Qin, Kai Luo, Yakun Ju, Xia Li & Junyu Dong 
 
-**Code to be open sourced!!!**
+**Code to be open sourced~**
+
+**You can view the result at this [link](https://github.com/oucmagpie/IGA-PSN/tree/main/results).**
 
 ## Citation
 ```
