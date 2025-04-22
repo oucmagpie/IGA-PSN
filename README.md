@@ -9,7 +9,8 @@
 **You can view the result at this [link](https://github.com/oucmagpie/IGA-PSN/tree/main/results).**
 
 ## Acknowledgement
-Our code is partially based on: https://github.com/guanyingc/PS-FCN, https://github.com/Kelvin-Ju/MF-PSN.
+Our code is partially based on: https://github.com/guanyingc/PS-FCN, https://github.com/Kelvin-Ju/MF-PSN. 
+
 We are grateful for the help of Guanying Chen(https://guanyingc.github.io/), and Yakun Ju(https://kelvin-ju.github.io/yakunju/) in academic research.
 
 ## Citation
