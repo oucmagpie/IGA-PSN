@@ -11,7 +11,7 @@
 ## Acknowledgement
 Our code is partially based on: https://github.com/guanyingc/PS-FCN, https://github.com/Kelvin-Ju/MF-PSN. 
 
-We are grateful for the help of Guanying Chen(https://guanyingc.github.io/), and Yakun Ju(https://kelvin-ju.github.io/yakunju/) in academic research.
+We are grateful for the help of Guanying Chen(https://guanyingc.github.io/), and Yakun Ju(https://juyakun.github.io/) in academic research.
 
 ## Citation
 ```bibtex
