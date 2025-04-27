@@ -1,4 +1,3 @@
-# IGA-PSN
 ## [Image Gradient-Aided Photometric Stereo Network.](https://link.springer.com/chapter/10.1007/978-981-96-0122-6_25) PRICAI-2024
 
 
